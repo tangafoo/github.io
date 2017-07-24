@@ -1,0 +1,70 @@
+#tit{
+  text-align: center;
+  font-size: 50px;
+  font-family: "Raleway";
+  background-color: indigo;
+  color: white;
+  margin: 1px;
+}
+
+img{
+  height:450px;
+  padding-top: 20px;
+  padding-right: 15px;
+}
+
+#front{
+  font-size: 30px;
+  text-align: center;
+  font-weight: 400;
+  font-family: "Raleway";
+  border-bottom: 1px solid black;
+  padding-bottom: 10px;
+}
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#avatar{
+  width:100px;
+  height:100px;
+  margin:1px;
+}
+
+#bord{
+  border-right: 1px solid black;
+  padding-right: 10px;
+  font-weight: bold;
+}
+
+td{
+  text-align: center;
+  font-size: 15px;
+  font-family: "Arial";
+}
+
+#marg{
+  table-layout: fixed;
+  width: auto;
+  margin-bottom: 20px;
+}
+
+#mid{
+  text-align:center;
+  font-family:"Verdana";
+}
+
+table{
+  table-layout: fixed;
+  width: 1350px;
+}
+
+.fa {
+    text-align: center;
+    padding-right: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    color: midnightblue;
+}
